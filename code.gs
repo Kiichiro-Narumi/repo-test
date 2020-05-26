@@ -1,3 +1,3 @@
 function myFunction() {
-  Browser.msgBox("this is test!");
+  Browser.msgBox("this is test!!!!!!");
 }
